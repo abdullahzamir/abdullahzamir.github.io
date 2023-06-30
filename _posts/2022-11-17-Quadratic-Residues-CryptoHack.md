@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Quadratic Residue Cryptohack Writeup"
+categories: [Cryptohack, Crypto]
 ---
 
 
