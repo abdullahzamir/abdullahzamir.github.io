@@ -31,7 +31,7 @@ https://wokwi.com/projects/new/arduino-uno
 
 paste the provided code 
 
-![[Pasted image 20230630204033.png]]
+![Figure 1](Pasted image 20230630204033.png)
 add the seven segment display 
 
 ![[Pasted image 20230630204200.png]]
@@ -44,7 +44,7 @@ pin 2-8 connected to A-G on seven segments
 and so on
 
 connect COM1 to 5V
-![[Pasted image 20230630204519.png]]
+![Pasted image 20230630204519.png](Pasted image 20230630204519.png)
 
 Run the Simulation
 and read the Hex characters displayed on the seven segment
