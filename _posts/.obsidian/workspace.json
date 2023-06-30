@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "2be92e61ee85c272",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5723697ebcf630a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f2a9ef865e88f6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-11-17-Quadratic-Residues-CryptoHack.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd669f71853cacc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "passino.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5e592366491ce75d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b92a8855d04ec63d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c2afd77c27f3eba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "908db3613251763a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3926bd1e5f858eb9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "31350c9d5b79e2d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f61be11d8ce6123",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99debc1be84d40e3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "passino.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ded556b376113e0d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "passino.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a02352c5c8bcfcc8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4979f5059de94d67",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "passino.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fd669f71853cacc1",
+  "lastOpenFiles": [
+    "2022-11-17-Quadratic-Residues-CryptoHack.md",
+    "passino.md"
+  ]
+}

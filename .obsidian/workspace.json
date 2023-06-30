@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "4ef77b8b1693d7a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f07cb009354e2c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed6753a964b6ac62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/passino.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "227f88d81c54efef",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b2c2387220130d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22e0d94537582c87",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1ee342c4cb26bc70",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "99d39b1b22552df9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "da8888925bb73082",
+    "type": "split",
+    "children": [
+      {
+        "id": "63de085960fd371e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "063c2566277c22e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/passino.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "07caedf9a00ca839",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/passino.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "89966c9b06d17e17",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0f812247c8fc8a0c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/passino.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ed6753a964b6ac62",
+  "lastOpenFiles": [
+    "Pasted image 20230630211006.png",
+    "_posts/2022-11-17-Quadratic-Residues-CryptoHack.md",
+    "_posts/passino.md",
+    "Pasted image 20230630204519.png",
+    "Pasted image 20230630204200.png",
+    "Pasted image 20230630204033.png",
+    "Pasted image 20230630204017.png"
+  ]
+}
