@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "BSidesTLV 2023 Passino Writeup"
+categories: [BSidesTLV2023, Hardware]
+
 ---
 
 #### Given File:
