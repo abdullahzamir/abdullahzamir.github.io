@@ -30,7 +30,7 @@ we found an online arduino simulator
 https://wokwi.com/projects/new/arduino-uno
 
 paste the provided code 
-	
+
 ![[Pasted image 20230630204033.png]]
 add the seven segment display 
 
