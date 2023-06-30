@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "BSidesTLV 2023 Passino Writeup"
@@ -31,10 +30,10 @@ https://wokwi.com/projects/new/arduino-uno
 
 paste the provided code 
 
-![[Pasted image 20230630204033.png]]
+![Pastedimage20230630204033.png](/assets/Pastedimage20230630204033.png)]
 add the seven segment display 
 
-![[Pasted image 20230630204200.png]]
+![Pastedimage20230630204200.png](/assets/Pastedimage20230630204200.png)
 
 connect the wires
 
@@ -44,12 +43,12 @@ pin 2-8 connected to A-G on seven segments
 and so on
 
 connect COM1 to 5V
-![[Pasted image 20230630204519.png]]
+![Pastedimage20230630204519.png](/assets/Pastedimage20230630204519.png)
 
 Run the Simulation
 and read the Hex characters displayed on the seven segment
 
-![[Pasted image 20230630211006.png]]
+![Pastedimage20230630211006.png](/assets/Pastedimage20230630211006.png)
 
 output:
 425369646573544c56323032337b68346172576f726b416e6448347264776172334230746841723346756e59617961797d
