@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_tabs/about.md",
+                "file": "_posts/2023-11-06-BlackhatMEA2023-USB100.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_tabs/about.md",
+                "file": "_posts/2023-11-06-BlackhatMEA2023-USB100.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_tabs/about.md",
+                "file": "_posts/2023-11-06-BlackhatMEA2023-USB100.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_tabs/about.md"
+                "file": "_posts/2023-11-06-BlackhatMEA2023-USB100.md"
               }
             }
           }
@@ -148,19 +148,26 @@
   },
   "active": "ed6753a964b6ac62",
   "lastOpenFiles": [
+    "assets/USB-5.png",
+    "Pasted image 20231106203600.png",
+    "Pasted image 20231106203555.png",
+    "assets/USB-4.png",
+    "assets/USB-3.png",
+    "assets/USB-2.png",
+    "assets/USB-1.png",
+    "_posts/2023-11-06-BlackhatMEA2023-USB100.md",
+    "assets/Pastedimage20230630211006.png",
+    "assets/Pastedimage20230630204519.png",
+    "assets/Pastedimage20230630204033.png",
+    "assets/Pastedimage20230630204017.png",
+    "_tabs/categories.md",
+    "_tabs/about.md",
+    "_tabs/tags.md",
+    "_tabs/archives.md",
+    "_posts/2023-06-29-BSidesTLV2023-passino.md",
+    "_posts/2022-11-17-Quadratic-Residues-CryptoHack.md",
     "README.md",
     "_posts/passino.md",
-    "assets.md",
-    "assets/Pastedimage20230630204033.png",
-    "assets/Pastedimage20230630204200.png",
-    "assets/Pastedimage20230630204519.png",
-    "assets/Pastedimage20230630211006.png",
-    "assets/Pastedimage20230630204017.png",
-    "assets/Pasted image 20230630204017.png",
-    "assets/Pasted image 20230630211006.png",
-    "assets/Pasted image 20230630204519.png",
-    "assets/Pasted image 20230630204200.png",
-    "assets/Pasted image 20230630204033.png",
-    "_posts/2022-11-17-Quadratic-Residues-CryptoHack.md"
+    "assets.md"
   ]
 }
