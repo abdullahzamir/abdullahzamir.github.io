@@ -8,7 +8,6 @@ order: 4
 Cybersecurity Enthusiast with strong interest in forensics, ethical hacking, malware analysis, and reverse engineering. Hard-working, passionate and technical-minded, ability to quickly adapt to new things and not afraid to learn about upcoming technologies
 
 # Achievement 
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="50" height="50">
     - Winner Digital Pakistan CyberSecurity Hackathon 2023
     - BlackHatMEA’23 Finalists. Riyadh, KSA
     - First in Pakistan (Qualifiers) 27th Position in Finals.
