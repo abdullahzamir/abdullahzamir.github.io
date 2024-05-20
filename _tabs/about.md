@@ -9,6 +9,9 @@ order: 4
 Cybersecurity Enthusiast with strong interest in forensics, crypto, malware analysis, and reverse engineering. 
 
 # Achievement 👑 
+## 2024
+- 🥇 Winner Nascon CTF 2024
+- 🥇 Winner CHC CTF 2024
 
 ## 2023
 - 🥇 Winner Digital Pakistan CyberSecurity Hackathon 2023
