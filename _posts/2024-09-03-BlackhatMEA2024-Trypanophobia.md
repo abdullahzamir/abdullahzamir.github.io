@@ -57,7 +57,7 @@ we can simplify the given problem
 `C1 = x*y1^(8+k)^e mod (p)`
 `C2 = x*y1^(16+k)^e mod (p)`
 
-We can now decrypt both $C{1}’$ and $C{2}’$ using $ϕ=p-1$ to get$$ M1 and M2
+We can now decrypt both C1$ and C2 using ϕ=p-1 to get m1 and m2
 
 
 if we divide m2 with m1 we get y^8, then we can calculate the 8th root to get the padded value `y1` 
