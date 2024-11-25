@@ -46,16 +46,16 @@ as length of n is 2048 bits, while the `while` loops run, where y is always 256 
 now if we add the key, the key pool becomes something like this n = `[P,Q,p,p]`, and pad will be `[P,Q,p]` now if we add the key again, now the pool is
 [P,Q,p,p,p,p] and will be be [P,Q,p], `y` will be fixed, now to the encryption part
 
-$C1 = (x*y_{1}^{8+k})^e \mod (n*p*p)$
-$C2 = (x*y_{1}^{16+k})^e \mod (n*p*p*p*p)$.
+`C1 = x*y1^(8+k)^e mod (n*p*p)`
+`C2 = x*y1^(16+k)^e mod (n*p*p*p*p)`
 
 `8+k` because now the length of n is 2048+2048 bits, similar for `16+k`
 
 we can simplify the given problem 
 
 
-$C1 = (x*y_{1}^{8+k})^e \mod (p)$
-$C2 = (x*y_{1}^{16+k})^e \mod (p)$
+`C1 = x*y1^(8+k)^e mod (p)`
+`C2 = x*y1^(16+k)^e mod (p)`
 
 We can now decrypt both $C{1}’$ and $C{2}’$ using $ϕ=p-1$ to get$$ M1 and M2
 
